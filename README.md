@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello! 👋 Welcome to my profile!
 
-<!--
-**vppfedya/vppfedya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Fedya**, and I am a **Full Stack Middle Developer & Beginner Pentester**.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **new technologies in web development and cybersecurity**
+- 💻 Working on **web applications, Telegram bots**
+- 🎯 Experience in IT — **2+ years**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+## 📫 Contact Me
+- Telegram: [@vpp_dev](https://t.me/vpp_dev)
+
+⭐️ Don't forget to star my projects if you like them!
