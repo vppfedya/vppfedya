@@ -17,6 +17,6 @@ My name is **Fedya**, and I am a **Full Stack Middle Developer & Beginner Pentes
 
 
 ## 📫 Contact Me
-- Telegram: [@vpp_dev](https://t.me/vpp_dev)
+- Telegram: [@bysllf](https://t.me/@bysllf)
 
 ⭐️ Don't forget to star my projects if you like them!
