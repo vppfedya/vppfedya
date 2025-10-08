@@ -1,22 +1,56 @@
-# Hello! 👋 Welcome to my profile!
+# 👋 Hello, I'm **Firdavs**
 
-My name is **Fedya**, and I am a **Full Stack Middle Developer & Beginner Pentester**.
+💻 **Full Stack Middle Developer** & 🧠 **Beginner Pentester**  
+🌍 Passionate about **Web Development**, **Cybersecurity** & **AI Integration**
 
-## 🚀 About Me
-- 🌱 Currently learning **new technologies in web development and cybersecurity**
-- 💻 Working on **web applications, Telegram bots**
-- 🎯 Experience in IT — **2+ years**
+---
 
-## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🚀 **About Me**
+- 🌱 Currently learning **modern web technologies** and **ethical hacking**
+- 🧩 Building **Web Apps**, **Telegram Bots**, and experimenting with **AI models**
+- 💼 IT experience — **2+ years**
+- 🧠 Interested in **Cybersecurity**, **Machine Learning**, and **Backend systems**
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 💻 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+### ⚙️ **Tools & Systems**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+---
 
-## 📫 Contact Me
-- Telegram: [@bysllf](https://t.me/@bysllf)
+## 📊 **GitHub Stats**
 
-⭐️ Don't forget to star my projects if you like them!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bysllf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Firdavs's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bysllf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bysllf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%"/>
+</p>
+
+---
+
+## 📫 **Contact Me**
+📩 Telegram — [@bysllf](https://t.me/bysllf)  
+🌐 GitHub — [github.com/bysllf](https://github.com/bysllf)
+
+---
+
+## ⭐ **Support**
+If you like my projects — don’t forget to ⭐ them!  
+Your support motivates me to build more amazing things 🚀
+![snake gif](https://github.com/bysllf/bysllf/blob/output/github-contribution-grid-snake.svg)
